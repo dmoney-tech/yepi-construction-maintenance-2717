@@ -1,0 +1,6 @@
+{
+  "name": "YEPI Construction & Maintenance",
+  "description": "Premium construction, renovation, property maintenance, plumbing, electrical, and welding services in Johannesburg South, Alberton, and Ekurhuleni.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
